@@ -1,5 +1,5 @@
 
-🔭 I’m currently working on something cool<br><br>🌱 I’m currently learning circuit design<br><br>👯 I’m looking to collaborate on any thing hardware or software<br><br>💬 Ask me about I will glad to help.<br><br>📫 How to reach me ankahharrison@gmail.com<br><br>⚡ Fun fact I am nice to work with.
+🔭 I’m currently working on something cool<br><br>🌱 I’m currently learning circuit design<br><br>👯 I’m looking to collaborate on any thing hardware or software<br><br>💬 Ask me about Software ,Hardware I will  glad to help.<br><br>📫 How to reach me ankahharrison@gmail.com<br><br>⚡ Fun fact I am nice to work with.
 
 # 💫 About Me:
 I am not just a developer; I am a creator who believes in the seamless integration of software and hardware to craft solutions that matter. Whether it's coding an elegant algorithm or soldering components onto a circuit board, I approach every task with enthusiasm and a commitment to excellence.

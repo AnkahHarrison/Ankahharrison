@@ -4,6 +4,27 @@
 # 💫 About Me:
 I am not just a developer; I am a creator who believes in the seamless integration of software and hardware to craft solutions that matter. Whether it's coding an elegant algorithm or soldering components onto a circuit board, I approach every task with enthusiasm and a commitment to excellence.
 
+
+🤖 Robotics Instructor:
+
+📚 Educator: Sharing my knowledge in robotics with a focus on hands-on learning.
+🔧 Maker: Turning ideas into real-life robots and automation systems.
+🧠 Mentor: Guiding the next generation of roboticists and engineers.
+💡 Innovator: Leveraging AI to solve real-world challenges.
+🌐 IoT Engineer:
+
+💻 IoT Architect: Designing interconnected devices for a smarter world.
+🛰️ Connectivity Wizard: Making everything from smart homes to industrial systems smarter.
+📡 Secure IoT Advocate: Ensuring IoT devices are safe and robust.
+⚡ Electronics Enthusiast:
+
+⚙️ Circuit Designer: Creating electronic wonders from scratch.
+🔌 Hardware Hacker: Unleashing the full potential of electronic components.
+🛠️ DIY Enthusiast: Turning ideas into functional gadgets.
+
+
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ankahharrison) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ankahharrison) 
 
